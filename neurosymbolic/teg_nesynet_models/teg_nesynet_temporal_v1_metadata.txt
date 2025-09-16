@@ -1,0 +1,12 @@
+TEG-NeSyNet Model Metadata
+==================================================
+model_name: teg_nesynet_temporal_v1
+save_timestamp: 2025-09-16T23:49:24.432067
+total_sequences: 23820
+num_students: 10000
+num_problems: 21777
+num_skills: 762
+device: cuda:0
+node_types: ['sequence', 'problem', 'skill']
+edge_types: [('sequence', 'predicts', 'problem'), ('problem', 'requires', 'skill'), ('problem', 'predicted_by', 'sequence'), ('skill', 'required_by', 'problem')]
+feature_shapes: {'sequence_features': [23820, 14], 'problem_features': [21777, 6], 'skill_features': [762, 5]}
