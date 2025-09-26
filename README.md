@@ -1,4 +1,4 @@
-## A Comprehensive study of Tmeporal Learner Modelling using Purely Neural Networks (XGBoost, LSTM, Transformers) and NeuroSymbolic Model (GNN+Symbolic engine) for Knowledge Tracing
+## A Comprehensive study of Temporal Learner Modelling using Purely Neural Networks (XGBoost, LSTM, Transformers) and NeuroSymbolic Model (GNN+Symbolic engine) for Knowledge Tracing
 
 ### Dataset
 [Click link for ASSISTments dataset ](https://osf.io/7cgav/files/osfstorage)
