@@ -1,4 +1,5 @@
 Model,Architecture,Parameters,Accuracy,Precision,Recall,F1-Score,AUC,Specificity,Sensitivity
+XGBoost,Gradient Boosted Trees,"6,000 complexity units",0.7683,0.7787,0.8486,0.8122,0.8484,0.6527,0.8486
 LSTM,LSTM with Embeddings,"70,865",0.7450,0.7522,0.8586,0.8019,0.8259,0.5739,0.8586
 Transformer,SAKT Transformer,"607,553",0.6843,0.6855,0.8413,0.7554,0.7419,0.4677,0.8413
 GNN+Neurosymbolic,Heterogeneous GNN + Symbolic Rules,"10,380,433",0.8075,0.7902,0.8785,0.8320,0.9082,0.7233,0.8785
